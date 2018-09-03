@@ -1,0 +1,22 @@
+SSW567 HW 1
+Fall 2018 Semester
+Joseph Buonocore
+
+Deliverables #1, #2, and #4 can all be found at this github link 
+https://github.com/JosephBuonocore/567HW1
+I'll upload the files for #1 and #2 separately to canvas as well
+
+
+Deliverable #3
+
+What challenges did you encounter with this assignment, if any? 
+Nothing really, simple coding, plus I did this assignment last semester
+
+What did you think about the requirements specification for this assignment?
+I took SSW-564 with you so I know this isn't one of the beautifully in-depth and unambigious requirement documents we seek to emulate, but for a first assignment its good enough.  The one big problem I had with it is that it did not specify how much testing to do, so I stuck with the five simple tests I ran last year.
+
+What challenges did you encounter with the tools?
+Again not too much, 
+
+Describe the criteria you used to determine that you had sufficient test cases, i.e. how did you know you were done?
+My personal criteria was having at least one test case for each output - ie one invalid triangle, one equilateral triangle, one right scalene triangle, etc.  But with hindsight I may have easily missed a few things with testing and could have had way more tests - how do i know that my program won't fail in a specific case that I didn't think of to test?
